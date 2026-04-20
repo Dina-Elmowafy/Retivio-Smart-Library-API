@@ -1,0 +1,23 @@
+[
+  {
+    "id": "log-1765650747165",
+    "userId": "demo-user-123",
+    "searchTerm": "machine learning",
+    "query": "machine learning",
+    "timestamp": "2025-12-13T18:32:27.165Z"
+  },
+  {
+    "id": "log-1765652346845",
+    "userId": "demo-user-123",
+    "searchTerm": "machine learning",
+    "query": "machine learning",
+    "timestamp": "2025-12-13T18:59:06.845Z"
+  },
+  {
+    "id": "log-1765865920997",
+    "userId": "demo-user-123",
+    "searchTerm": "cook",
+    "query": "cook",
+    "timestamp": "2025-12-16T06:18:40.997Z"
+  }
+]
